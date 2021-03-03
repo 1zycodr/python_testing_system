@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "answer": "8",
+            "cor_answers": 1,
+            "text": "4 + 4 = ?",
+            "wrong_answers": 0
+        },
+        {
+            "answer": "110",
+            "cor_answers": 1,
+            "text": "10 * 11 = ?",
+            "wrong_answers": 0
+        },
+        {
+            "answer": "28",
+            "cor_answers": 1,
+            "text": "98 - 70 = ?",
+            "wrong_answers": 0
+        },
+        {
+            "answer": "12",
+            "cor_answers": 1,
+            "text": "10 + 2",
+            "wrong_answers": 0
+        }
+    ]
+}
